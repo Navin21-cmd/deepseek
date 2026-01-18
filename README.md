@@ -12,3 +12,5 @@ go generate ./...go build .
 
 ./ollama run deepseek-r1:1.5b
 
+#STOP
+/bye
